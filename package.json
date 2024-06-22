@@ -1,7 +1,7 @@
 {
-  "name": "RnComponent",
-  "version": "0.0.1",
-  "private": true,
+  "name": "react-native-paper-multiselect",
+  "version": "1.0.0",
+  "private": false,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -9,6 +9,29 @@
     "start": "react-native start",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloplerCode/react-native-paper-multiselect"
+  },
+  "keywords": [
+    "react-native",
+    "react-nativepaper-component",
+    "react-native-paper-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "react-native-paper-multiselect",
+    "multiselect",
+    "component"
+  ],
+  "author": "Andres f meza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeveloplerCode/react-native-paper-multiselect/issues"
+  },
+  "homepage": "https://github.com/DeveloplerCode/react-native-paper-multiselect#readme",
   "dependencies": {
     "react": "18.2.0",
     "react-native": "0.74.2",
